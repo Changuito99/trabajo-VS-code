@@ -1,0 +1,72 @@
+.hola{
+    background-color: white;
+    border: solid black;
+}
+body{
+    background-image: url(img/losog\ vs\ code.png);
+    margin: 8px 300px 10px 300px;
+    background-size: 10%;
+}
+.ir{
+    text-decoration: none;
+    padding: 20px;
+}
+h1{
+    text-align: center;
+    font-size: 60px;
+    font-weight: 50;   
+}
+h3{
+    text-align: center;
+}
+h4{
+    text-align: center;
+    font-size: 40px;
+    text-decoration: none;
+}
+.boton{
+    text-align: center;
+    padding: 95px;
+    font-size: 85px;
+}
+.tra{
+    font-size: 40px;
+    border-radius: 35px;
+    border: solid black;
+}
+.averia-serif-libre-light {
+    font-family: "Averia Serif Libre", serif;
+    font-weight: 300;
+    font-style: normal;
+  }
+  
+  .averia-serif-libre-regular {
+    font-family: "Averia Serif Libre", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .averia-serif-libre-bold {
+    font-family: "Averia Serif Libre", serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+  
+  .averia-serif-libre-light-italic {
+    font-family: "Averia Serif Libre", serif;
+    font-weight: 300;
+    font-style: italic;
+  }
+  
+  .averia-serif-libre-regular-italic {
+    font-family: "Averia Serif Libre", serif;
+    font-weight: 400;
+    font-style: italic;
+  }
+  
+  .averia-serif-libre-bold-italic {
+    font-family: "Averia Serif Libre", serif;
+    font-weight: 700;
+    font-style: italic;
+  }
+  

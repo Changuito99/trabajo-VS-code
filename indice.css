@@ -1,0 +1,140 @@
+body{
+    background-image: url(img/losog\ vs\ code.png);
+    margin: 8px 150px 10px 350px;
+    background-size: 10%;
+}
+.joya{
+    background-color: white;
+    border: solid black;
+}
+
+.fredericka-the-great-regular a{
+    text-decoration: none;
+    color: #333;
+    display: block;
+}
+.fredericka-the-great-regular a:hover{
+    font-weight: bold;
+}
+.fredericka-the-great-regular li{
+    list-style-type: none;
+    margin-bottom: 10px;
+}
+.moli h1{
+    text-align: center;
+    font-size: 50px;
+}
+.moli p{
+    padding: 50px;
+    font-size: 20px;
+}
+h2{
+    padding: 50px;
+    font-size: 30px;
+}
+p{
+    padding: 30px;
+    font-size: 20px;
+}
+.alas img{
+    height: 50px;
+}
+
+.win{
+    padding-left: 200px;
+}
+.aple{
+    padding-left: 50px;
+}
+.linu{
+    padding-left: 50px;
+}
+
+.ejemplo{
+    padding-left: 45px;
+}
+
+.dm-serif-text-regular {
+    font-family: "DM Serif Text", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .dm-serif-text-regular-italic {
+    font-family: "DM Serif Text", serif;
+    font-weight: 400;
+    font-style: italic;
+  }
+
+  .averia-serif-libre-light {
+    font-family: "Averia Serif Libre", serif;
+    font-weight: 300;
+    font-style: normal;
+  }
+  
+  .averia-serif-libre-regular {
+    font-family: "Averia Serif Libre", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .averia-serif-libre-bold {
+    font-family: "Averia Serif Libre", serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+  
+  .averia-serif-libre-light-italic {
+    font-family: "Averia Serif Libre", serif;
+    font-weight: 300;
+    font-style: italic;
+  }
+  
+  .averia-serif-libre-regular-italic {
+    font-family: "Averia Serif Libre", serif;
+    font-weight: 400;
+    font-style: italic;
+  }
+  
+  .averia-serif-libre-bold-italic {
+    font-family: "Averia Serif Libre", serif;
+    font-weight: 700;
+    font-style: italic;
+  }
+
+  .mate-sc-regular {
+    font-family: "Mate SC", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+  .fredericka-the-great-regular {
+    font-family: "Fredericka the Great", serif;
+    font-weight: 400;
+    font-style: normal;
+   flex: 0 0 200px;
+    border: solid black;
+    text-align: center;
+    margin: 0 490px 0 0;
+    position: absolute;
+    top: 5px;
+    left: 10px;
+    background-color: white;
+    position: fixed;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+.tierra h2{
+    color: grey;
+}
+.factura h2{
+    color: purple;
+}
+.hoja h2{
+    color: skyblue;
+}
+.polo h2{
+    color: green;
+}
+.eco h2{
+    color: greenyellow;
+}
